@@ -1,1 +1,19 @@
 # SQL-Practice
+
+[sql-practice.com](https://www.sql-practice.com/) is a website I came across on my search to develop my skills with SQL. It is a simple website, where a prompted question, categorized by difficulty, is answered by the user through writing SQL queries. 
+
+I completed the availble prompts from all difficulty catergories, and wanted to upload it into my github to access whenever I needed to, and to show my accomplishments.
+
+The website gives a way to save the progress in the form of an exported json file, which can then be imported from other devices. This json file is what is posted in this github repository.
+
+## Thoughts and Opinions
+
+I thought this resource was really great. All the required tools are given: a database with multiple related tables, a way to check if the query answers the prompt or not (or even works at all), and hints in case the user is stuck. 
+
+The prompts are, in my opinion, accurately represented by the difficulty levels. The Easy difficulty is all about the SQL basics: basic SELECT, FROM, WHERE, and ORDER BY clauses. The Medium difficulty adds in more skills like aggregate functions, JOIN clauses, and problem-solving. The Hard difficulty adds more advanced skills like sub-querying, CASE functions, aggregate functions within other functions, etc. 
+
+I had a lot of fun completing the questions on the website, and really think it improved my SQL skills. The creator of the website continues to improve this resource, and even links other resources that could help users improve their SQL skills.
+
+If you are someone who works with SQL, whether professionally or personally, I encourage you to check out this website, as I believe it's a great tool for polishing your SQL skills for all levels of proficiency.
+
+
