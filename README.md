@@ -1,10 +1,10 @@
 # SQL-Practice
 
-[sql-practice.com](https://www.sql-practice.com/) is a website I came across on my search to develop my skills with SQL. It is a simple website, where a prompted question, categorized by difficulty, is answered by the user through writing SQL queries. 
+In my journey from a chemistry associate into data analysis, I am constantly looking for ways to learn and develop new skills, especially for languages like SQL. [sql-practice.com](https://www.sql-practice.com/) is a website I came across while looking for ways to do just that. It is a simple website, where a user is prompted to answer a question through SQL queries, categorized by varying levels of difficulty.
 
 I completed the availble prompts from all difficulty catergories, and wanted to upload it into my github to access whenever I needed to, and to show my accomplishments.
 
-The website gives a way to save the progress in the form of an exported json file, which can then be imported from other devices. This json file is what is posted in this github repository.
+In the complementary json file in this repository, the "userSolution" key holds the values of all the SQL queries I wrote while completing the prompts available on the website. This json file was exported from sql-practice.com from my own local device.
 
 ## Thoughts and Opinions
 
